@@ -9,13 +9,13 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # BasicWeatherApp
-# 🌦️ BasicWeatherApp
+# BasicWeatherApp
 
 A responsive weather application built using **React.js**, **Vite**, and **Material UI**. It allows users to search for any city and view real-time weather data such as temperature, humidity, and weather conditions using the **OpenWeatherMap API**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **BasicWeatherApp** provides a clean and modern interface to fetch and display live weather information. It serves as a great example of:
 
@@ -26,7 +26,7 @@ A responsive weather application built using **React.js**, **Vite**, and **Mater
 
 ---
 
-## ✨ Features
+## Features
 
 -  Search for any city
 -  Displays temperature, humidity, min & max temperatures
@@ -35,7 +35,7 @@ A responsive weather application built using **React.js**, **Vite**, and **Mater
 -  Fast performance with Vite
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React.js
 - Vite
@@ -44,7 +44,7 @@ A responsive weather application built using **React.js**, **Vite**, and **Mater
 - JavaScript
 
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 
@@ -53,15 +53,15 @@ A responsive weather application built using **React.js**, **Vite**, and **Mater
 
 ### Steps
 
-1. Clone the repository
-   git clone https://github.com/KaveriBadakh0604/BasicWeatherApp.git
-   cd BasicWeatherApp
+1. Clone the repository: 
+   - git clone https://github.com/KaveriBadakh0604/BasicWeatherApp.git
+   - cd BasicWeatherApp
    
 2. Install dependencies:
-   npm install
+   - npm install
 3. Start the Server
-   npm run dev
+   - npm run dev
 4. In your browser, open:
-   http://localhost:5173
+   - http://localhost:5173
 
 >>>>>>> 4d9f84e556d547ffaedbef7d282f72cd38e9f7b1
